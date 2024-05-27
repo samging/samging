@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samging&label=Profile%20views&color=0e75b6&style=flat" alt="samging" /> </p>
 
-- I’m currently working on: https://colab.research.google.com/drive/1Cszd3gZV2I4jRImvx641dnGUw7lhyiko?usp=sharing 
+- I’m currently working on: https://colab.research.google.com/drive/1Cszd3gZV2I4jRImvx641dnGUw7lhyiko?usp=sharing
+- 
 - I’m currently learning: **JAX - Python library**
 
-- All of my projects are available at: [https://github.com/samging/](https://github.com/samging/)
+- All of my projects are available at [https://github.com/samging/](https://github.com/samging/)
 
 - How to reach me **samfuxm@gmail.com**
 
