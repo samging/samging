@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samging&label=Profile%20views&color=0e75b6&style=flat" alt="samging" /> </p>
 
-- I’m currently working on: [https://colab.research.google.com/drive/1Cszd3gZV2I4jRImvx641dnGUw7lhyiko?usp=sharing](**Energy Efficiency - DNN**)
+- I’m currently working on: [https://colab.research.google.com/drive/1Cszd3gZV2I4jRImvx641dnGUw7lhyiko?usp=sharing](Energy Efficiency - DNN)
 
 - I’m currently learning: **JAX - Python library**
 
