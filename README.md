@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://discord.gg/_prate](https://discord.gg/cHbMpF7N)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_prate" height="30" width="40" /></a>
+<a href="https://discord.gg/_prate](https://discord.gg/cHbMpF7N)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_prate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
