@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Samuel Fux</h1>
 <h3 align="center">A passionate AI developer from Czechia</h3>
 
-- I’m currently working on **Pytorch - Plate reader**
+- I’m currently working on: **Pytorch - Plate reader**
 
 - I’m currently learning: **JAX - Python library**
 
 - All of my projects are available at: [https://github.com/samging/](https://github.com/samging/)
 
-- How to reach me **samfuxm@gmail.com**
+- How to reach me: **samfuxm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/_prate](https://discord.gg/cHbMpF7N)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_prate" height="30" width="40" /></a>
+<a href="https://discord.gg/_prate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_prate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
