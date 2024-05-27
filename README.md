@@ -1,4 +1,3 @@
-[![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F34f9cf45097b0b19ddc7be07b6dc8575%2Ftenor.gif%3Fitemid%3D5966243&f=1&nofb=1&ipt=35c6a4fb66b159f0b326a53144c3d23b288b71907151ba13775753e083527a20&ipo=images)]([https://.com/](https://github.com/samging/))
 <h1 align="center">Hi, I'm Samuel Fux</h1>
 <h3 align="center">A Junior AI developer from Czechia</h3>
 
