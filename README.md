@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/r-000000?style=for-the-badge&logo=r&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-000000?style=for-the-badge&logo=latex&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
