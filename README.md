@@ -1,21 +1,7 @@
-## Hi there 👋
+## Uni Student
+- Sometimes I have time for personal projects, so I post them here.
 
-<!--
-**samging/samging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+### Recently touched these languages (Big Rustic fan!):
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-000000?style=for-the-badge&logo=r&logoColor=white)
@@ -23,3 +9,4 @@ Here are some ideas to get you started:
 ![LaTeX](https://img.shields.io/badge/latex-000000?style=for-the-badge&logo=latex&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+- Cooking up some projects—will be added soon!
