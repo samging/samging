@@ -10,7 +10,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Haskell](https://img.shields.io/badge/haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
-### Know, but don't use it:
+### I never used (but learned):
 ![Bash Script](https://img.shields.io/badge/bash_script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - Cooking up some projects—will be added soon!
