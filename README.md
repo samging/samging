@@ -1,6 +1,3 @@
-## Uni Student
-- Sometimes I have time for personal projects, so I post them here.
-
 ### Using:
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
